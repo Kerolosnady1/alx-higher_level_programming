@@ -1,4 +1,11 @@
 #!/usr/bin/node
-const myVar = 'JavaScript is amazing';
-console.log(myVar);
-//@Kerolosnady1
+/**
+ * Function to print the message "JavaScript is amazing" using console.log.
+ */
+function printMessage() {
+    const myVar = "JavaScript is amazing";
+    console.log(myVar);
+}
+
+// Calling the function to print the message
+printMessage();
