@@ -6,4 +6,4 @@ if (process.argv.length <= 3) {
   const second = arr.sort(function (i, j) { return j - i; })[1];
   console.log(second);
 }
-//@yego5
+//@Kerolosnady1

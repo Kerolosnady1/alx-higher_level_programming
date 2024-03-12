@@ -6,4 +6,4 @@ const myObject = {
 console.log(myObject);
 myObject.value = 89;
 console.log(myObject);
-//@yego5
+//@Kerolosnady1
