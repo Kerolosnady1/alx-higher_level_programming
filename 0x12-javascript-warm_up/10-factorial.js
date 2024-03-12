@@ -10,4 +10,4 @@ function factorial (n) {
 }
 
 console.log(factorial(Number(process.argv[2])));
-//@Kerolosnady1
+// @Kerolosnady1

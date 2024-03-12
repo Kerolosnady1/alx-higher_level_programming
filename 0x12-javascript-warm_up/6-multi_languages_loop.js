@@ -2,4 +2,4 @@
 for (const line of ['C is fun', 'Python is cool', 'JavaScript is amazing']) {
   console.log(line);
 }
-//@Kerolosnady1
+// @Kerolosnady1
