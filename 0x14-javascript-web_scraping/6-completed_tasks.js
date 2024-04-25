@@ -28,6 +28,6 @@ request(apiUrl, function (error, response, body) {
       console.error('Error parsing JSON:', parseError);
     }
   } else {
-  console.error('Error:', error);
+    console.error('Error:', error);
   }
 });
